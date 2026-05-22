@@ -62,6 +62,8 @@ interface EventData {
   venue: string;
   is_test_active: boolean;
   test_link: string | null;
+  custom_theme_code?: string;
+  custom_theme_file?: string | null;
 }
 
 interface Speaker {
