@@ -4,6 +4,7 @@ django-cors-headers
 python-dotenv
 dj-database-url
 psycopg2-binary
+whitenoise
 pymongo
 gspread
 google-api-python-client
