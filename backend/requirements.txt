@@ -2,6 +2,8 @@ django
 djangorestframework
 django-cors-headers
 python-dotenv
+dj-database-url
+psycopg2-binary
 pymongo
 gspread
 google-api-python-client
