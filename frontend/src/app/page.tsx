@@ -2,6 +2,7 @@
 
 import React, { useEffect, useState } from "react";
 import Link from "next/link";
+// @ts-expect-error - Next.js build fails because Babel standalone lacks official TS types
 import * as Babel from '@babel/standalone';
 
 // The Barrier Breaker: Dynamic Runtime React Compiler
